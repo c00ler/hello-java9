@@ -3,12 +3,14 @@
 ## Requirements
 - java9
 
-## Compile
+## Running
+1. Install modules
 ```bash
-./mvnw clean compile
+./mvnw clean install
 ```
 
-## Run
+2. Run main module
 ```bash
-./mvnw exec:exec
+cd main
+../mvnw exec:exec
 ```
