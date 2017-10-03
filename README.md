@@ -1,4 +1,4 @@
-# Single module hello world - maven example
+# Java 9 modules demo
 
 ## Requirements
 - java9
